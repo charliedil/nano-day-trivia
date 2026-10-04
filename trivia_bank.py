@@ -1,0 +1,17 @@
+qa = [
+    ('The prefix "nano" means one ______ (one word).', ["billionth"]),
+    ("One nanometer is 10 to the power of negative ___ meters (number).", ["9"]),
+    ("National Nanotechnology Day is celebrated on October ___ (number).", ["9"]),
+    ("Graphene is a single layer of ______ atoms (element name).", ["carbon"]),
+    ("C₆₀ molecules are nicknamed ______ (one word).", ["buckyballs", "buckyball"]),
+    ("A rolled-up sheet of graphene forms a carbon ______ (one word).", ["nanotube", "nanotubes"]),
+    ("A strand of DNA is about ___ nanometers wide (number).", ["2"]),
+    ('Richard ______ gave the 1959 talk "There\'s Plenty of Room at the Bottom" (last name).', ["feynman"]),
+    ('Norio ______ coined the term "nanotechnology" in 1974 (last name).', ["taniguchi"]),
+    ("The scanning ______ microscope, invented in 1981, can image individual atoms (one word).", ["tunneling", "tunnelling"]),
+    ("In 1989, IBM spelled its logo using atoms of ______ (element name).", ["xenon"]),
+    ("Andre ______ shared the 2010 Nobel Prize in Physics for isolating graphene (last name).", ["geim"]),
+    ("The 2023 Nobel Prize in Chemistry honored quantum ______ (one word).", ["dots", "dot"]),
+    ("COVID-19 mRNA vaccines are delivered inside ______ nanoparticles (one word).", ["lipid"]),
+    ("Tiny gold nanoparticles in solution often appear the color ______ (one word).", ["red", "ruby"]),
+]
