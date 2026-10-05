@@ -14,4 +14,9 @@ qa = [
     ("The 2023 Nobel Prize in Chemistry honored quantum ______ (one word).", ["dots", "dot"]),
     ("COVID-19 mRNA vaccines are delivered inside ______ nanoparticles (one word).", ["lipid"]),
     ("Tiny gold nanoparticles in solution often appear the color ______ (one word).", ["red", "ruby"]),
+    ("______ is a summertime skin protectant that uses nanotechnology (one word).",["sunscreen"]),
+    ("______ is a metal that breaks down bacteria at the nano level (one word).", ["silver"]),
+    ("Tennis ______ often use carbon nanotubes to increase their strength (one word).",["racket", "rackets"]),
+    ("The prefix nano- comes from the ______ language (one word).", ["greek"]),
+    ("The ______ Space Telescope uses nano-thin layers of gold and silicone dioxide, giving it the iconic honeycomb structure (two words).", ["james webb"])
 ]
